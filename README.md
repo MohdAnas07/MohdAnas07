@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohd Anas</h1>
-<h3 align="center">A passionate For Engineering.</h3>
+<h3 align="center">A boy passionate for Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdanas07&label=Profile%20views&color=0e75b6&style=flat" alt="mohdanas07" /> </p>
 
-- 🌱 I’m currently learning **Full stack Web-Devlopment**
+- 🌱 I’m currently learning **Full stack Web-Devlopment and Competetive programming also.**
 
 - 💬 Ask me about **in which we both interested.**
 
