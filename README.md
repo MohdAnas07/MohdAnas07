@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **in which we both interested.**
 
-- 📫 How to reach me via **anas98144@gmail.com**
+- 📫 reach me via **anas98144@gmail.com**
 
 - ⚡ Fun fact **I think i am good Singer.**
 
