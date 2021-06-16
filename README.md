@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohd-anas-a39a6b1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mohd-anas-a39a6b1a4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-anas-a39a6b1a4" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.t9lClupYvagJUFb9dYiu0gHaHa?pid=ImgDet&rs=1" alt="mohd-anas-a39a6b1a4" height="30" width="40" /></a>
 <a href="https://instagram.com/i_m_anas07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="i_m_anas07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anas_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="anas_07" height="30" width="40" /></a>
 </p>
