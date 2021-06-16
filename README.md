@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohd-anas-a39a6b1a4" target="blank"><img align="center" src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127079.jpg" alt="mohd-anas-a39a6b1a4" height="30" width="40" /></a>
 <a href="https://instagram.com/i_m_anas07" target="blank"><img align="center" src="https://www.splitanatom.com/wp-content/uploads/2018/03/Instagram-Icon-Transparent.png" alt="i_m_anas07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anas_07" target="blank"><img align="center" src="https://c7.uihere.com/files/374/588/21/hackerrank-computer-programming-programmer-logo-interview-hacker-logo.jpg" alt="anas_07" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anas_07" target="blank"><img align="center" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" alt="anas_07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
