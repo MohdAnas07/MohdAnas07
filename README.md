@@ -9,7 +9,7 @@
 
 - 📫 Reach me via **anas98144@gmail.com**
 
-- ⚡ Fun fact **I think i am good Singer.**
+- ⚡ Fun fact **I think i am a good Singer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
