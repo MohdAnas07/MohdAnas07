@@ -1,5 +1,5 @@
 <h1 style="color: green" align="center">Ciao 👋, It's Mohd Anas</h1>
-<h3 align="center">LEARNER | EXPLORER | INOVATIVE | PROBLEM SOLVER </h3>
+<h3 align="center">LEARNER | EXPLORER | INNOVATIVE | PROBLEM SOLVER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdanas07&label=Profile%20views&color=0e75b6&style=flat" alt="mohdanas07" /> </p>
 
