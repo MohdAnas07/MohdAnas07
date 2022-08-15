@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdanas07&label=Profile%20views&color=0e75b6&style=flat" alt="mohdanas07" /> </p>
 
 - 🌱 I’m currently learning **Full stack Web-Devlopment and Competetive programming also.**
-- 🎯 As JavaScript Developer 
-- 💬 Ask me about **in which we both interested.**
+- 🎯 As Full Stack Web Developer 
+- 💬 Ask me about **in which we both interested**
 
 - 📫 Reach me via **anas98144@gmail.com**
 
