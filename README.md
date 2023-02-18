@@ -1,9 +1,9 @@
-<h1 style="color: green" align="center">नमस्ते 🙏, It's <>Mohd Anas</> </h1>
+<h1 style="color: green" align="center">नमस्ते 🙏, It's <>Mohd Anas</>  </h1>
 <h3 align="center">LEARNER | EXPLORER | INNOVATIVE | PROBLEM SOLVER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdanas07&label=Profile%20views&color=0e75b6&style=flat" alt="mohdanas07" /> </p>
 
-<a href="https://mohdanas.vercel.app" target="_blank"> PORTFOLIO </a>
+<> <a href="https://mohdanas.vercel.app" target="_blank"> PORTFOLIO </a> </>
 <a href="https://mohdanas.vercel.app" target="_blank"> ![portfolio](https://user-images.githubusercontent.com/68696709/219845869-2c68f310-cfb2-4475-b721-f9bc72502dc8.jpg) </a>
 <hr>
 
