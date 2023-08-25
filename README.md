@@ -2,7 +2,7 @@
 <div>
 <div align="left">
   <h1 style="color: green" align="left">नमस्ते 🙏, It's <span style="color": "rgb(104, 42, 233)">Mohd Anas</span>  </h1>
-  <h3 align="center">LEARNER | EXPLORER | INNOVATIVE | PROBLEM SOLVER </h3>
+  <h3 align="left">LEARNER | EXPLORER | INNOVATIVE | PROBLEM SOLVER </h3>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdanas07&label=Profile%20views&color=0e75b6&style=flat"  alt="mohdanas07" /> </p>
 </div>
  <a align="right" href="https://app.daily.dev/MohdAnas07"><img src="https://api.daily.dev/devcards/05325a6f427d44ac99b86a388d97c218.png?r=n2d" width="400" alt="Mohd Anas's Dev Card"/></a>
