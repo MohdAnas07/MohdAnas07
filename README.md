@@ -1,7 +1,7 @@
 
 <div>
 <div align="left">
-  <h1 style="color: green" align="center">नमस्ते 🙏, It's <span style="color": "rgb(104, 42, 233)">Mohd Anas</span>  </h1>
+  <h1 style="color: green" align="left">नमस्ते 🙏, It's <span style="color": "rgb(104, 42, 233)">Mohd Anas</span>  </h1>
   <h3 align="center">LEARNER | EXPLORER | INNOVATIVE | PROBLEM SOLVER </h3>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdanas07&label=Profile%20views&color=0e75b6&style=flat"  alt="mohdanas07" /> </p>
 </div>
