@@ -1,12 +1,12 @@
 <h1 style="color: green" align="center">नमस्ते 🙏, It's <span style="color": "rgb(104, 42, 233)">Mohd Anas</span>  </h1>
 <h3 align="center">LEARNER | EXPLORER | INNOVATIVE | PROBLEM SOLVER </h3>
-<a href="https://app.daily.dev/MohdAnas07"><img src="https://api.daily.dev/devcards/05325a6f427d44ac99b86a388d97c218.png?r=n2d" width="400" alt="Mohd Anas's Dev Card"/></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdanas07&label=Profile%20views&color=0e75b6&style=flat" alt="mohdanas07" /> </p>
 
 <> <a href="https://mohdanas.vercel.app" target="_blank"> PORTFOLIO </a> </>
 <a href="https://mohdanas.vercel.app" target="_blank"> ![portfolio](https://user-images.githubusercontent.com/68696709/219845869-2c68f310-cfb2-4475-b721-f9bc72502dc8.jpg) </a>
 <hr>
+<a align="right" href="https://app.daily.dev/MohdAnas07"><img src="https://api.daily.dev/devcards/05325a6f427d44ac99b86a388d97c218.png?r=n2d" width="400" alt="Mohd Anas's Dev Card"/></a>
+
 
 - 🌱 I’m currently learning **Full stack Web-Devlopment and Competetive programming also.**
 - 🎯 As Full Stack Web Developer 
