@@ -8,7 +8,7 @@
  <a align="right" href="https://app.daily.dev/MohdAnas07"><img align="right" src="https://api.daily.dev/devcards/05325a6f427d44ac99b86a388d97c218.png?r=n2d" width="400" alt="Mohd Anas's Dev Card"/></a>
 
 </div>
-
+[![An image of @mohdanas07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdanas07)](https://holopin.io/@mohdanas07)
 
 <hr>
 
